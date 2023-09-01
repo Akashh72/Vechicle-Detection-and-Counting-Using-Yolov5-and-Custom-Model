@@ -1,0 +1,9 @@
+auto
+bus
+car
+electric-rickshaw
+large-sized-truck
+medium-sized-truck
+motorbike
+small-sized-truck
+van
